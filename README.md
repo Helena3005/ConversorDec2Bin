@@ -12,6 +12,15 @@ Y hace: ¡muuu!
 - [x] brocoli
 - [ ] champiñones
 
-![foto graciosa de internet.] (https://myoctocat.com/assets/images/base-octocat.svg)
+![foto graciosa de internet.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 :grinning:
+
+>[!NOTE]
+>HOLA
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+
+<!-- This content will not appear in the rendered Markdown -->
+
